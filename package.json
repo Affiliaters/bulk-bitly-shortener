@@ -1,6 +1,6 @@
 {
   "name": "bulk-bitly-shortener",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,10 @@
   "dependencies": {
     "async": "^3.2.6",
     "axios": "^1.7.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Affiliaters/bulk-bitly-shortener.git"
   },
   "keywords": [
     "bitly",
