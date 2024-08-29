@@ -1,0 +1,30 @@
+{
+  "name": "bulk-bitly-shortener",
+  "version": "1.0.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Affiliaters",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.6",
+    "axios": "^1.7.5"
+  },
+  "keywords": [
+    "bitly",
+    "bitly shortener",
+    "url shortener",
+    "link shortener",
+    "bitly api",
+    "bulk shortener",
+    "bulk bitly shortener",
+    "shorten links",
+    "batch shortener",
+    "api shortener",
+    "async processing",
+    "retry mechanism",
+    "token rotation"
+  ]
+}
